@@ -1,9 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:800');
+
 h1 {
     text-align: center;
-    color: black;
-    font-family: Courier New;
+    color: white;
+    font-family: Dosis;
+    font-size
 }
 
 body{
-  background-color: #eeeeee;
+  background-color: #b3cde0;
+}
+
+div{
+
 }
