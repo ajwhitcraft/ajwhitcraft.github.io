@@ -1,4 +1,9 @@
 h1 {
     text-align: center;
-    color: blue;
+    color: black;
+    font-family: Courier New;
+}
+
+body{
+  background-color: #eeeeee;
 }
